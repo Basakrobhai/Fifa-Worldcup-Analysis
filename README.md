@@ -120,7 +120,7 @@ jupyter>=1.0.0
 
 ```bash
 cd worldcup-analysis
-jupyter notebook notebooks/Main-Code-Copy1.ipynb
+jupyter notebook notebooks/Main.ipynb
 ```
 
 4. Run all cells from top to bottom (**Kernel → Restart & Run All**).
