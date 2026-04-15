@@ -69,7 +69,9 @@ worldcup-analysis/
 ├── notebooks/
 │   └── Main.ipynb      # Primary analysis notebook (run this)
 │
-└── requirements.txt
+├── requirements.txt
+|
+README.md
 ```
 
 ---
